@@ -21,6 +21,7 @@ body {
   .page-subtitle {
     color: #ffffff;
     margin-top: 5px;
+    padding-top: 15px;
   }
   
   .page-logo {
@@ -59,7 +60,7 @@ body {
     border-radius: 5px;
     margin-top: 20px;
     cursor: pointer;
-    transition: 0.2s;
+    transition: 0.1s;
   }
   
   .form-wrapper button:hover {
