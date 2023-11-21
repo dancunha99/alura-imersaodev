@@ -46,6 +46,7 @@
   
   h1 {
     color: white;
+    padding: 20px 0px;
   }
   
   th,
@@ -53,9 +54,10 @@
   td {
     border: solid 1px white;
     color: white;
+    padding: 10px;
   }
   
   button {
-    background-color: #002351;
+    background-color: #00439b;
     color: #f6f6f6;
   }
